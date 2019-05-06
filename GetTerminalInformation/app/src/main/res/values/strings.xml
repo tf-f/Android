@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get Terminal Information</string>
+    <string name="text_view1">Latitude</string>
+    <string name="text_view2">Longitude</string>
+</resources>
